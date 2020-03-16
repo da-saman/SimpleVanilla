@@ -5,5 +5,7 @@ an empty webpacked project with server for testing vanilla javascript and css
   > npm install -g live-server.
 2. then copy the url and then :
   > git clone https://github.com/da-saman/SimpleVanilla.git
+3. change Directory:
+  > cd SimpleVanilla
 3. then in the command line type:
   > live-server
